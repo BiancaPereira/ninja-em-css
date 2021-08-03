@@ -39,8 +39,15 @@
 
 ### 1. Básico de CSS
 
-- [ ] CSS inline ou externo
+- [ ] CSS inline, interno ou externo
+> [Incluindo CSS na página 🇧🇷](https://tableless.github.io/iniciantes/manual/css/inserindo-css.html)
+
 - [ ] Sintaxe
+> [Sintexe do CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Syntax)
+
+- [ ] `.class` e `#id`
+> [Qual a diferença entre CLASS e ID? 🇧🇷](https://tableless.github.io/iniciantes/manual/css/class-id.html)
+
 - [ ] Seletores
 - [ ] Herança
 - [ ] Combinadores
@@ -78,6 +85,10 @@
 - [ ] `position`
 - [ ] `z-index`
 - [ ] `float` e `clear`
+> [Estruturando e flutuando elementos](https://tableless.github.io/iniciantes/manual/css/float-clear.html)
+
+- [ ] `overflow`
+> [Cuidando dos limites de conteúdo em caixas](https://tableless.github.io/iniciantes/manual/css/overflow.html)
 
 ---
 
@@ -125,7 +136,13 @@
 ### 9. Arquitetura
 
 - [ ] BEM
+> [Metodologia BEM para criar código legível](https://www.maujor.com/tutorial/metodologia-bem-para-criar-codigo-legivel.php)
+
+- [ ] OOCSS
+> [Organizando Seu Codigo Css Parte 01](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-01/)
+
 - [ ] SMACSS
+> [Organizando Seu Codigo Css Parte 02](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-02/)
 
 ---
 
