@@ -155,3 +155,4 @@
 - [ ] Fontes de ícones
 - [ ] Vender-prefix
 - [ ] Can I Use
+> Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
