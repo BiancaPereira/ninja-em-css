@@ -85,10 +85,10 @@
 - [ ] `position`
 - [ ] `z-index`
 - [ ] `float` e `clear`
-> [Estruturando e flutuando elementos](https://tableless.github.io/iniciantes/manual/css/float-clear.html)
+> [Estruturando e flutuando elementos 🇧🇷](https://tableless.github.io/iniciantes/manual/css/float-clear.html)
 
 - [ ] `overflow`
-> [Cuidando dos limites de conteúdo em caixas](https://tableless.github.io/iniciantes/manual/css/overflow.html)
+> [Cuidando dos limites de conteúdo em caixas 🇧🇷](https://tableless.github.io/iniciantes/manual/css/overflow.html)
 
 ---
 
@@ -136,19 +136,21 @@
 ### 9. Arquitetura
 
 - [ ] BEM
-> [Metodologia BEM para criar código legível](https://www.maujor.com/tutorial/metodologia-bem-para-criar-codigo-legivel.php)
+> [Metodologia BEM para criar código legível 🇧🇷](https://www.maujor.com/tutorial/metodologia-bem-para-criar-codigo-legivel.php)
 
 - [ ] OOCSS
-> [Organizando Seu Codigo Css Parte 01](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-01/)
+> [Organizando Seu Codigo Css Parte 01 🇧🇷](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-01/)
 
 - [ ] SMACSS
-> [Organizando Seu Codigo Css Parte 02](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-02/)
+> [Organizando Seu Codigo Css Parte 02 🇧🇷](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-02/)
 
 ---
 
 ### 10. Extras
 
 - [ ] Pré-processadores
+> [O que são pré-processadores CSS e por quê usar? 🇧🇷](https://www.zup.com.br/blog/o-que-sao-pre-processadores-css)<br>
+
 - [ ] Frameworks
 - [ ] Fontes de ícones
 - [ ] Vender-prefix
