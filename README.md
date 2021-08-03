@@ -15,5 +15,41 @@
 </h3>
 
 <p align="center">
-  Uma lista pública e cooperativa com um roadmap de CSS.
+  Uma lista pública e cooperativa com um roadmap de CSS em 10 tópicos.
 </p>
+
+---
+
+### Pré requisitos 
+
+- [ ] WWW - World Wide Web
+> O que é a internet?
+
+- [ ] Browsers
+> Como os browsers funcionam?<br>
+> Diferença entre os browsers (Chrome, Firefox, Edge, Safari, etc)
+
+- [ ] Protocolos HTTP e HTTPS
+> [How HTTPS works? 🇧🇷](https://howhttps.works/pt-br/episodes/)
+
+- [ ] Básico de HTML
+> Básico de HTML e [HTML semântico 🇧🇷](https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065)
+
+---
+
+### 1. Básico de CSS
+
+- [ ] CSS inline ou externo
+- [ ] Sintaxe
+- [ ] Seletores
+- [ ] Herança
+- [ ] Combinadores
+- [ ] Prioridade
+- [ ] Propriedades de fonte e texto
+- [ ] Unidades de texto e tamanho
+- [ ] Cores
+- [ ] Comentários
+
+---
+
+### 2. CSS Box Model
