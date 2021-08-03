@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  Uma lista pública e cooperativa com um roadmap de CSS em 10 tópicos.
+  Uma lista pública e cooperativa com uma trilha de estudos de CSS em 10 tópicos.
 </p>
 
 ---
@@ -53,3 +53,86 @@
 ---
 
 ### 2. CSS Box Model
+
+- [ ] Box-model
+> O que é CSS box-model?
+
+- [ ] `margin`
+- [ ] `padding`
+- [ ] `width` e `height`
+- [ ] Elementos `block` e `inline`
+- [ ] `box-sizing`
+- [ ] `background` e `gradient`
+- [ ] `box-shadow`
+- [ ] Filtros
+- [ ] Atalhos
+
+---
+
+### 3. Posicionamento e layout
+
+- [ ] `display`
+- [ ] Flexbox
+- [ ] Grid
+- [ ] `visibility`
+- [ ] `position`
+- [ ] `z-index`
+- [ ] `float` e `clear`
+
+---
+
+### 4. Pseudo-classes e pseudo-seletores
+
+- [ ] Pseudo-classes
+- [ ] Pseudo-seletores
+
+---
+
+### 5. Animações e transições
+
+- [ ] Animações
+- [ ] Transições
+- [ ] `transform`
+- [ ] `@keyframe`
+
+---
+
+### 6. Responsividade
+
+- [ ] `@media-query`
+
+---
+
+### 7. Avançado
+
+- [ ] Como é interpretado o CSS?
+- [ ] CSSOM
+- [ ] Reset
+- [ ] Important
+- [ ] Como debuggar CSS?
+- [ ] Diretrizes de código
+
+---
+
+### 8. SASS
+
+- [ ] Mixins
+- [ ] Funções
+- [ ] Aninhado
+
+---
+
+### 9. Arquitetura
+
+- [ ] BEM
+- [ ] SMACSS
+
+---
+
+### 10. Extras
+
+- [ ] Pré-processadores
+- [ ] Frameworks
+- [ ] Fontes de ícones
+- [ ] Vender-prefix
+- [ ] Can I Use
