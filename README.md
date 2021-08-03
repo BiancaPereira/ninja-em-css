@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  Ninja em CSS
+  Torne-se um Ninja em CSS
 </h3>
 
 <p align="center">
