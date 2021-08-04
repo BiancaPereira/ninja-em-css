@@ -156,3 +156,11 @@
 - [ ] Vender-prefix
 - [ ] Can I Use
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
+
+---
+
+### Contribua na lista
+
+Para contribuir na lista, confira primeiro o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Aproveite e deixe uma estrelinha ⭐ nesse repo!
