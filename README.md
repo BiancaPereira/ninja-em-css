@@ -158,7 +158,7 @@
 > [O que são pré-processadores CSS e por quê usar? 🇧🇷](https://www.zup.com.br/blog/o-que-sao-pre-processadores-css)<br>
 
 - [ ] Frameworks
-> Pontos positivos e negativos de usar frameworks
+> Pontos positivos e negativos de usar frameworks<br>
 > Conheça alguns frameworks CSS ([Bootstrap](https://getbootstrap.com/), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/))
 
 - [ ] Fontes de ícones
