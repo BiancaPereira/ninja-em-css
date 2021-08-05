@@ -56,6 +56,8 @@
 - [ ] Unidades de texto e tamanho
 - [ ] Cores
 - [ ] Comentários
+- [ ] `important`
+- [ ] `@import`
 
 ---
 
@@ -71,6 +73,9 @@
 - [ ] `box-sizing`
 - [ ] `background` e `gradient`
 - [ ] `box-shadow`
+- [ ] `outline`
+> Propriedade `outline` e sua importância para a acessibilidade
+
 - [ ] Filtros
 - [ ] Atalhos
 
@@ -119,9 +124,10 @@
 - [ ] Como é interpretado o CSS?
 - [ ] CSSOM
 - [ ] Reset
-- [ ] Important
 - [ ] Como debuggar CSS?
-- [ ] Diretrizes de código
+- [ ] Diretrizes de código (guidelines)
+- [ ] Função `calc()`
+- [ ] CSS performático
 
 ---
 
@@ -152,8 +158,14 @@
 > [O que são pré-processadores CSS e por quê usar? 🇧🇷](https://www.zup.com.br/blog/o-que-sao-pre-processadores-css)<br>
 
 - [ ] Frameworks
+> Pontos positivos e negativos de usar frameworks
+> Conheça alguns frameworks CSS ([Bootstrap](https://getbootstrap.com/), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/))
+
 - [ ] Fontes de ícones
 - [ ] Vender-prefix
+- [ ] CSS no Javascript
+> [Styled Components](https://styled-components.com/)
+
 - [ ] Can I Use
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
 
