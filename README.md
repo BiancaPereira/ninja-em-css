@@ -1,4 +1,4 @@
-[![Logo](/ninja-logo.png)](https://30secondsofcode.org/js/p/1)
+[![Logo](/ninja-logo.png)](https://biancapereira.github.io/ninja-em-css/)
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
