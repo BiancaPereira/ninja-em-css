@@ -51,16 +51,35 @@
 > [Qual a diferença entre CLASS e ID? 🇧🇷](https://tableless.github.io/iniciantes/manual/css/class-id.html)
 
 - [ ] Seletores
+> [Seletores básicos 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Selectors#seletores_b%C3%A1sicos)
+
 - [ ] Herança
+> Estilos herdados
+
 - [ ] Combinadores
+> [Tipos de combinadores 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Selectors#combinadores)
+
 - [ ] Prioridade (especificidade)
 > [Entendendo especificidade em CSS 🇧🇷](https://willianjusten.com.br/entendendo-especificidade-em-css)
 
 - [ ] Propriedades de fonte e texto
+> Propriedade `font`, `text-decoration`, `letter-spacing` e todas de tipografia
+> Adicionando fontes do Google Fontes
+> O que são Web Safe Fonts?
+
 - [ ] Unidades de texto e tamanho
+> Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`
+> Qual unidade funciona melhor para cada situação
+
 - [ ] Cores
+> Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA
+
 - [ ] Comentários
-- [ ] `important`
+> Forma correta de escrever comentários no CSS
+
+- [ ] `!important`
+> Aprender o que faz e porque devemos evitar usar
+
 - [ ] `@import`
 > [Qual é a diferença do @import do CSS e do link do HTML? 🇧🇷](https://pt.stackoverflow.com/questions/72655/qual-e-a-diferen%C3%A7a-do-import-do-css-e-do-link-do-html)
 
@@ -126,6 +145,7 @@
 - [ ] Textos responsivos
 - [ ] Grids flexíveis e tecnologias de layout modernos
 - [ ] Meta tag viewport
+- [ ] Relação entre pixels e resolução das telas
 
 ---
 
