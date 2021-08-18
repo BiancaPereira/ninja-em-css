@@ -53,13 +53,16 @@
 - [ ] Seletores
 - [ ] Herança
 - [ ] Combinadores
-- [ ] Prioridade
+- [ ] Prioridade (especificidade)
+> [Entendendo especificidade em CSS 🇧🇷](https://willianjusten.com.br/entendendo-especificidade-em-css)
+
 - [ ] Propriedades de fonte e texto
 - [ ] Unidades de texto e tamanho
 - [ ] Cores
 - [ ] Comentários
 - [ ] `important`
 - [ ] `@import`
+> [Qual é a diferença do @import do CSS e do link do HTML? 🇧🇷](https://pt.stackoverflow.com/questions/72655/qual-e-a-diferen%C3%A7a-do-import-do-css-e-do-link-do-html)
 
 ---
 
@@ -80,6 +83,7 @@
 
 - [ ] Filtros
 - [ ] Atalhos
+> [Propriedades Atalho 🇧🇷](https://codando.wordpress.com/2008/03/18/tutorial-intermedirio-de-css-propriedades-atalho/)
 
 ---
 
@@ -118,18 +122,24 @@
 ### 6. Responsividade
 
 - [ ] `@media-query`
+- [ ] Design responsivo
+- [ ] Textos responsivos
+- [ ] Grids flexíveis e tecnologias de layout modernos
+- [ ] Meta tag viewport
 
 ---
 
 ### 7. Avançado
 
 - [ ] Como é interpretado o CSS?
-- [ ] CSSOM
+- [ ] CSSOM - A árvore do CSS
 - [ ] Reset
 - [ ] Como debuggar CSS?
 - [ ] Diretrizes de código (guidelines)
 - [ ] Função `calc()`
-- [ ] CSS performático
+- [ ] Critical Rendering Path
+- [ ] Performance
+> Curso gratuito de [Website Performance Optimization 🇺🇸](https://www.udacity.com/course/website-performance-optimization--ud884)
 
 ---
 
@@ -137,7 +147,7 @@
 
 - [ ] Mixins
 - [ ] Funções
-- [ ] Aninhado
+- [ ] CSS aninhado
 
 ---
 
@@ -161,12 +171,12 @@
 
 - [ ] Frameworks
 > Pontos positivos e negativos de usar frameworks<br>
-> Conheça alguns frameworks CSS ([Bootstrap](https://getbootstrap.com/), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/))
+> Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/))
 
 - [ ] Fontes de ícones
 - [ ] Vender-prefix
 - [ ] CSS no Javascript
-> [Styled Components](https://styled-components.com/)
+> [Styled Components 🇺🇸](https://styled-components.com/)
 
 - [ ] Can I Use
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
