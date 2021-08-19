@@ -63,12 +63,12 @@
 > [Entendendo especificidade em CSS 🇧🇷](https://willianjusten.com.br/entendendo-especificidade-em-css)
 
 - [ ] Propriedades de fonte e texto
-> Propriedade `font`, `text-decoration`, `letter-spacing` e todas de tipografia
-> Adicionando fontes do Google Fontes
+> Propriedade `font`, `text-decoration`, `letter-spacing` e todas de tipografia<br>
+> Adicionando fontes do Google Fontes<br>
 > O que são Web Safe Fonts?
 
 - [ ] Unidades de texto e tamanho
-> Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`
+> Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`<br>
 > Qual unidade funciona melhor para cada situação
 
 - [ ] Cores
@@ -112,6 +112,8 @@
 - [ ] Flexbox
 - [ ] Grid
 - [ ] `visibility`
+> Qual a diferença entre `visibility: 0` e `display: none`
+
 - [ ] `position`
 - [ ] `z-index`
 - [ ] `float` e `clear`
