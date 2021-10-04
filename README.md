@@ -203,6 +203,9 @@
 - [ ] Can I Use
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
 
+- [ ] Dicas profissionais
+> [Uma coleção de dicas para aumentar suas habilidades no CSS](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+
 ---
 
 ### Contribua na lista
