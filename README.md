@@ -204,10 +204,10 @@
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
 
 - [ ] Jogos para praticar CSS
-> Coloque em prática seus conhecimentos de Flexbox no [Flexbox Froggy](https://flexboxfroggy.com)
-> Pratique Grid Layout no [CSS Grid Garden](https://cssgridgarden.com/)
-> Neste game você poderá treinar os Seletores CSS no [CSS Diner](http://flukeout.github.io/)
-> Você já é mais avançado? Então treine a propriedade 3D Transforms no [Unfold](https://rupl.github.io/unfold)
+> Coloque em prática seus conhecimentos de Flexbox no [Flexbox Froggy](https://flexboxfroggy.com)<br>
+> Pratique Grid Layout no [CSS Grid Garden](https://cssgridgarden.com/)<br>
+> Neste game você poderá treinar os Seletores CSS no [CSS Diner](http://flukeout.github.io/)<br>
+> Você já é mais avançado? Então treine a propriedade 3D Transforms no [Unfold](https://rupl.github.io/unfold)<br>
 > Pratique em como manipular animações no [Carnival](https://codepen.io/una/pen/NxZaNr)
 
 ---
