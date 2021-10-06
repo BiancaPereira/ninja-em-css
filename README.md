@@ -143,7 +143,9 @@
 ### 6. Responsividade
 
 - [ ] `@media-query`
+- [ ] > [O GUIA COMPLETO PARA CSS MEDIA QUERIES (CONSULTAS DE MÍDIA EM CSS)](https://site-v1.gama.academy/blog/desenvolvimento/guia-completo-css-media-queries/l)
 - [ ] Design responsivo
+- [ ] > [Design Responsivo](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - [ ] Textos responsivos
 - [ ] Grids flexíveis e tecnologias de layout modernos
 - [ ] Meta tag viewport
@@ -156,6 +158,7 @@
 - [ ] Como é interpretado o CSS?
 - [ ] CSSOM - A árvore do CSS
 - [ ] Reset
+- [ ] > [Reset CSS: O que é, Exemplos, Como Criar e Utilizar](https://www.alura.com.br/artigos/o-que-e-reset-css)
 - [ ] Como debuggar CSS?
 - [ ] Diretrizes de código (guidelines)
 - [ ] Função `calc()`
