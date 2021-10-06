@@ -94,7 +94,7 @@
 - [ ] `padding`
 - [ ] `width` e `height`
 - [ ] Elementos `block` e `inline`
-- [ ] `box-sizing`
+- [ ] [box-sizing](http://sergiolopes.org/css-box-sizing-border-box/)
 - [ ] `background` e `gradient`
 - [ ] `box-shadow`
 - [ ] `outline`
@@ -109,7 +109,7 @@
 ### 3. Posicionamento e layout
 
 - [ ] `display`
-- [ ] Flexbox
+- [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] Grid
 - [ ] `visibility`
 > Qual a diferença entre `visibility: 0` e `display: none`
