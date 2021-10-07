@@ -68,11 +68,11 @@
 > O que são Web Safe Fonts?
 
 - [ ] Unidades de texto e tamanho
-> Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`<br>
-> Qual unidade funciona melhor para cada situação
+> [Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`](https://www.alura.com.br/artigos/guia-de-unidades-no-css)<br>
+> [Qual unidade funciona melhor para cada situação](https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
 
 - [ ] Cores
-> Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA
+> [Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA](https://www.devmedia.com.br/css-colors/36827)
 
 - [ ] Comentários
 > Forma correta de escrever comentários no CSS
@@ -88,13 +88,13 @@
 ### 2. CSS Box Model
 
 - [ ] Box-model
-> O que é CSS box-model?
+> [O que é CSS box-model?](https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing)
 
 - [ ] `margin`
 - [ ] `padding`
 - [ ] `width` e `height`
 - [ ] Elementos `block` e `inline`
-- [ ] `box-sizing`
+- [ ] [box-sizing](http://sergiolopes.org/css-box-sizing-border-box/)
 - [ ] `background` e `gradient`
 - [ ] `box-shadow`
 - [ ] `outline`
@@ -109,7 +109,7 @@
 ### 3. Posicionamento e layout
 
 - [ ] `display`
-- [ ] Flexbox
+- [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] Grid
 - [ ] `visibility`
 > Qual a diferença entre `visibility: 0` e `display: none`
@@ -202,6 +202,13 @@
 
 - [ ] Can I Use
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
+
+- [ ] Jogos para praticar CSS
+> Coloque em prática seus conhecimentos de Flexbox no [Flexbox Froggy](https://flexboxfroggy.com)<br>
+> Pratique Grid Layout no [CSS Grid Garden](https://cssgridgarden.com/)<br>
+> Neste game você poderá treinar os Seletores CSS no [CSS Diner](http://flukeout.github.io/)<br>
+> Você já é mais avançado? Então treine a propriedade 3D Transforms no [Unfold](https://rupl.github.io/unfold)<br>
+> Pratique em como manipular animações no [Carnival](https://codepen.io/una/pen/NxZaNr)
 
 - [ ] Dicas profissionais
 > [Uma coleção de dicas para aumentar suas habilidades no CSS 🇧🇷](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
