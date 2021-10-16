@@ -25,9 +25,10 @@
 ### Pré requisitos 
 
 - [ ] WWW - World Wide Web 
-> [O que é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
+> [O qe é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
 
-- [ ] Browsers
+
+- [ ] [Browsers 🇧🇷](https://www.techtudo.com.br/listas/2021/03/o-que-e-browser-veja-perguntas-e-respostas-sobre-navegador-de-internet.ghtml)
 > Como os browsers funcionam?<br>
 > Diferença entre os browsers (Chrome, Firefox, Edge, Safari, etc)
 
@@ -45,7 +46,7 @@
 > [Incluindo CSS na página 🇧🇷](https://tableless.github.io/iniciantes/manual/css/inserindo-css.html)
 
 - [ ] Sintaxe
-> [Sintexe do CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Syntax)
+> [Sintaxe do CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Syntax)
 
 - [ ] `.class` e `#id`
 > [Qual a diferença entre CLASS e ID? 🇧🇷](https://tableless.github.io/iniciantes/manual/css/class-id.html)
@@ -54,7 +55,7 @@
 > [Seletores básicos 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Selectors#seletores_b%C3%A1sicos)
 
 - [ ] Herança
-> Estilos herdados
+> [Estilos herdados 🇧🇷](https://tableless.com.br/afinal-como-usar-heranca-no-css/)
 
 - [ ] Combinadores
 > [Tipos de combinadores 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Selectors#combinadores)
@@ -64,7 +65,7 @@
 
 - [ ] Propriedades de fonte e texto
 > Propriedade `font`, `text-decoration`, `letter-spacing` e todas de tipografia<br>
-> Adicionando fontes do Google Fontes<br>
+> [Adicionando fontes do Google Fontes 🇧🇷](https://metring.com.br/como-utilizar-o-google-fonts)<br>
 > O que são Web Safe Fonts?
 
 - [ ] Unidades de texto e tamanho
@@ -75,7 +76,7 @@
 > [Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA](https://www.devmedia.com.br/css-colors/36827)
 
 - [ ] Comentários
-> Forma correta de escrever comentários no CSS
+> [Forma correta de escrever comentários no CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Comments)
 
 - [ ] `!important`
 > Aprender o que faz e porque devemos evitar usar
@@ -166,10 +167,17 @@
 ---
 
 ### 8. SASS
-
+- [ ] O que é SASS
+> [Documentação](https://sass-lang.com/documentation)<br>
+> [Novo Método de Escrever CSS](https://www.ufsm.br/pet/sistemas-de-informacao/2021/09/22/o-que-e-sass-venha-entender-esse-novo-metodo-de-escrever-css/)<br>
+> [Introdução ao SASS](https://devschannel.com/sass/introducao-ao-sass)<br>
 - [ ] Mixins
+> [Mixins usados frequentemente](https://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/amp/)<br>
+> [Exemplos práticos](https://www.w3schools.com/sass/sass_mixin_include.php)<br>
 - [ ] Funções
+> [Introdução as Funções Nativas do SASS](https://devschannel.com/sass/funcoes-nativas-no-sass)<br>
 - [ ] CSS aninhado
+> [Aninhamento no SASS](https://devschannel.com/sass/regras-aninhadas-no-sass)<br>
 
 ---
 
