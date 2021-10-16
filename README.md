@@ -24,8 +24,10 @@
 
 ### Pré requisitos 
 
-- [ ] WWW - World Wide Web
-> O que é a internet?
+----------- MODIFICAÇÃO AQUI -----------
+
+- [ ] WWW - World Wide Web 
+> [O que é a internet?] (https://canaltech.com.br/produtos/o-que-significa-www/)
 
 - [ ] Browsers
 > Como os browsers funcionam?<br>
