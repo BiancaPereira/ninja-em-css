@@ -166,10 +166,17 @@
 ---
 
 ### 8. SASS
-
+- [ ] O que é SASS
+> [Documentação](https://sass-lang.com/documentation)<br>
+> [Novo Método de Escrever CSS](https://www.ufsm.br/pet/sistemas-de-informacao/2021/09/22/o-que-e-sass-venha-entender-esse-novo-metodo-de-escrever-css/)<br>
+> [Introdução ao SASS](https://devschannel.com/sass/introducao-ao-sass)<br>
 - [ ] Mixins
+> [Mixins usados frequentemente](https://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/amp/)<br>
+> [Exemplos práticos](https://www.w3schools.com/sass/sass_mixin_include.php)<br>
 - [ ] Funções
+> [Introdução as Funções Nativas do SASS](https://devschannel.com/sass/funcoes-nativas-no-sass)<br>
 - [ ] CSS aninhado
+> [Aninhamento no SASS](https://devschannel.com/sass/regras-aninhadas-no-sass)<br>
 
 ---
 
