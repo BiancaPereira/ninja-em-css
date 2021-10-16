@@ -45,7 +45,7 @@
 > [Incluindo CSS na página 🇧🇷](https://tableless.github.io/iniciantes/manual/css/inserindo-css.html)
 
 - [ ] Sintaxe
-> [Sintexe do CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Syntax)
+> [Sintaxe do CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Syntax)
 
 - [ ] `.class` e `#id`
 > [Qual a diferença entre CLASS e ID? 🇧🇷](https://tableless.github.io/iniciantes/manual/css/class-id.html)
@@ -75,7 +75,7 @@
 > [Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA](https://www.devmedia.com.br/css-colors/36827)
 
 - [ ] Comentários
-> Forma correta de escrever comentários no CSS
+> [Forma correta de escrever comentários no CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Comments)
 
 - [ ] `!important`
 > Aprender o que faz e porque devemos evitar usar
