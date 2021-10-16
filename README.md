@@ -110,7 +110,7 @@
 
 - [ ] `display`
 - [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-- [ ] Grid
+- [ ] [Grid](https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web)🇧🇷
 - [ ] `visibility`
 > Qual a diferença entre `visibility: 0` e `display: none`
 
