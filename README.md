@@ -211,7 +211,7 @@
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
 
 - [ ] Jogos para praticar CSS
-> Praquite seus conhecimentos de Flexbox no [Flexbox Defense](http://www.flexboxdefense.com/)<br>
+> Pratique seus conhecimentos de Flexbox no [Flexbox Defense](http://www.flexboxdefense.com/)<br>
 > Coloque em prática seus conhecimentos de Flexbox no [Flexbox Froggy](https://flexboxfroggy.com)<br>
 > Pratique Grid Layout no [CSS Grid Garden](https://cssgridgarden.com/)<br>
 > Neste game você poderá treinar os Seletores CSS no [CSS Diner](http://flukeout.github.io/)<br>
