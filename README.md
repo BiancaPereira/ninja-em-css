@@ -91,8 +91,8 @@
 - [ ] Box-model
 > [O que é CSS box-model?](https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing)
 
-- [ ] `margin`
-- [ ] `padding`
+- [ ] `margin`(https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin)
+- [ ] `padding`(https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding)
 - [ ] `width` e `height`
 - [ ] Elementos `block` e `inline`
 - [ ] [box-sizing](http://sergiolopes.org/css-box-sizing-border-box/)
