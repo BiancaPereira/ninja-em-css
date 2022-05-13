@@ -219,6 +219,7 @@
 > Você já é mais avançado? Então treine a propriedade 3D Transforms no [Unfold](https://rupl.github.io/unfold)<br>
 > Pratique em como manipular animações no [Carnival](https://codepen.io/una/pen/NxZaNr) <br>
 > Use suas habilidades de CSS para replicar alvos com o código menor possível no [CSS Battle](https://cssbattle.dev/) <br>
+> Pratique seus conhecimentos de Flexbox no [Flexbox Zombies](https://mastery.games/flexboxzombies/) <br>
 
 ---
 
