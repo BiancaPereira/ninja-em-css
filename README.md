@@ -79,7 +79,7 @@
 > [Forma correta de escrever comentários no CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Comments)
 
 - [ ] `!important`
-> Aprender o que faz e porque devemos evitar usar
+> [Aprender o que faz e porque devemos evitar usar](https://pt.stackoverflow.com/questions/25311/para-que-serve-a-declara%C3%A7%C3%A3o-important)
 
 - [ ] `@import`
 > [Qual é a diferença do @import do CSS e do link do HTML? 🇧🇷](https://pt.stackoverflow.com/questions/72655/qual-e-a-diferen%C3%A7a-do-import-do-css-e-do-link-do-html)
