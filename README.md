@@ -192,6 +192,9 @@
 - [ ] SMACSS
 > [Organizando Seu Codigo Css Parte 02 🇧🇷](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-02/)
 
+- [ ] ATOMIC DESIGNER
+> [[Front-End] Arquitetura CSS - Criando Design Atômico](https://www.youtube.com/watch?v=alaUQiSAMeE)
+
 ---
 
 ### 10. Extras
@@ -201,7 +204,7 @@
 
 - [ ] Frameworks
 > Pontos positivos e negativos de usar frameworks<br>
-> Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/))
+> Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/), [Materiaul UI us](https://mui.com/), [Materialize CSS us](https://materializecss.com/))
 
 - [ ] Fontes de ícones
 - [ ] Vender-prefix
