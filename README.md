@@ -25,7 +25,7 @@
 ### Pré requisitos 
 
 - [ ] WWW - World Wide Web 
-> [O qe é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
+> [O que é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
 
 
 - [ ] [Browsers 🇧🇷](https://www.techtudo.com.br/listas/2021/03/o-que-e-browser-veja-perguntas-e-respostas-sobre-navegador-de-internet.ghtml)
