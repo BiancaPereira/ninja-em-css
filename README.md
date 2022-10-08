@@ -109,7 +109,7 @@
 
 ### 3. Posicionamento e layout
 
-- [ Display ](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- [ ] [ Display ](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [Grid](https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web)🇧🇷
 - [ ] `visibility`
@@ -127,7 +127,7 @@
 
 ### 4. Pseudo-classes e pseudo-seletores
 
-- [ Pseudo-classes ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
+- [ ] [ Pseudo-classes ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
 - [ ] Pseudo-seletores
 
 ---
