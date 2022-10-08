@@ -127,7 +127,7 @@
 
 ### 4. Pseudo-classes e pseudo-seletores
 
-- [ ] Pseudo-classes
+- [ Pseudo-classes ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
 - [ ] Pseudo-seletores
 
 ---
