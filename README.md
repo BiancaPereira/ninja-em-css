@@ -109,7 +109,7 @@
 
 ### 3. Posicionamento e layout
 
-- [ ] `display`
+- [ Display ](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [Grid](https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web)🇧🇷
 - [ ] `visibility`
