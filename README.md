@@ -25,12 +25,11 @@
 ### Pré requisitos 
 
 - [ ] WWW - World Wide Web 
-> [O qe é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
+> [O que é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
 
 
-- [ ] [Browsers 🇧🇷](https://www.techtudo.com.br/listas/2021/03/o-que-e-browser-veja-perguntas-e-respostas-sobre-navegador-de-internet.ghtml)
-> Como os browsers funcionam?<br>
-> Diferença entre os browsers (Chrome, Firefox, Edge, Safari, etc)
+- [ ] Como os browsers funcionam? Diferença entre os browsers (Chrome, Firefox, Edge..)
+> [Browsers 🇧🇷](https://www.techtudo.com.br/listas/2021/03/o-que-e-browser-veja-perguntas-e-respostas-sobre-navegador-de-internet.ghtml)
 
 - [ ] Protocolos HTTP e HTTPS
 > [How HTTPS works? 🇧🇷](https://howhttps.works/pt-br/episodes/)
@@ -48,7 +47,7 @@
 - [ ] Sintaxe
 > [Sintaxe do CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Syntax)
 
-- [ ] `.class` e `#id`
+- [ ] Classe  e ID (`.class` e `#id`)
 > [Qual a diferença entre CLASS e ID? 🇧🇷](https://tableless.github.io/iniciantes/manual/css/class-id.html)
 
 - [ ] Seletores
@@ -64,12 +63,13 @@
 > [Entendendo especificidade em CSS 🇧🇷](https://willianjusten.com.br/entendendo-especificidade-em-css)
 
 - [ ] Propriedades de fonte e texto
-> Propriedade `font`, `text-decoration`, `letter-spacing` e todas de tipografia<br>
-> [Adicionando fontes do Google Fontes 🇧🇷](https://metring.com.br/como-utilizar-o-google-fonts)<br>
-> O que são Web Safe Fonts?
+> [Propriedade font 🇧🇷](https://www.devmedia.com.br/trabalhando-com-a-propriedade-font/24483)
+> [Espaçamento entre letras, palavras e linhas 🇧🇷](https://www.htmlprogressivo.net/2014/02/Espacamento-letra-palavra-linha-letter-spacing-word-line-height-Tutorial.html#:~:text=Espa%C3%A7amento%20entre%20letras%20em%20CSS%20%2D%20letter%2Dspacing%3A%20px%3B&text=Onde%20x%20%C3%A9%20um%20n%C3%BAmero,espa%C3%A7amento%20padr%C3%A3o%20%C3%A9%200%20pixel.&text=Por%C3%A9m%2C%20podemos%20tamb%C3%A9m%20alterar%20o,as%20letras%20uma%20das%20outras.)
+> [Adicionando fontes do Google Fontes 🇧🇷](https://metring.com.br/como-utilizar-o-google-fonts)
+> [Por que usar Web Safe Fonts é uma boa ideia? 🇧🇷](https://www.alura.com.br/artigos/por-que-usar-web-safe-fonts-e-uma-boa-ideia)
 
 - [ ] Unidades de texto e tamanho
-> [Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`](https://www.alura.com.br/artigos/guia-de-unidades-no-css)<br>
+> [Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`](https://www.alura.com.br/artigos/guia-de-unidades-no-css)
 > [Qual unidade funciona melhor para cada situação](https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
 
 - [ ] Cores
@@ -78,8 +78,8 @@
 - [ ] Comentários
 > [Forma correta de escrever comentários no CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Comments)
 
-- [ ] `!important`
-> Aprender o que faz e porque devemos evitar usar
+- [ ] Aprenda o que faz o `!important` e porque devemos evitar usar
+> [Aprenda como aplicar !important em CSS 🇧🇷](https://www.impacta.com.br/blog/aprenda-como-aplicar-important-em-css/)
 
 - [ ] `@import`
 > [Qual é a diferença do @import do CSS e do link do HTML? 🇧🇷](https://pt.stackoverflow.com/questions/72655/qual-e-a-diferen%C3%A7a-do-import-do-css-e-do-link-do-html)
@@ -89,7 +89,7 @@
 ### 2. CSS Box Model
 
 - [ ] Box-model
-> [O que é CSS box-model?](https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing)
+> [O que é CSS box-model? 🇧🇷](https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing)
 
 - [ ] `margin`(https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin)
 - [ ] `padding`(https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding)
@@ -125,10 +125,12 @@
 
 ---
 
-### 4. Pseudo-classes e pseudo-seletores
+### 4. Pseudo-classes e pseudo-elementos
 
 - [ ] Pseudo-classes
-- [ ] Pseudo-seletores
+> [Pseudo-classes 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes#:~:text=Uma%20pseudo%2Dclasse%20CSS%20%C3%A9,passar%20o%20cursor%20sobre%20ele.)
+- [ ] Pseudo-elementos
+> [Pseudo-elementos 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements)
 
 ---
 
@@ -144,11 +146,20 @@
 ### 6. Responsividade
 
 - [ ] `@media-query`
+> [Utilizando CSS Media Queries 🇧🇷](https://www.devmedia.com.br/utilizando-css-media-queries/27085)
+> [Usando Media Queries 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [ ] Design responsivo
+> [Design responsivo - Aprendendo desenvolvimento web  🇧🇷](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - [ ] Textos responsivos
-- [ ] Grids flexíveis e tecnologias de layout modernos
+> [Criando textos responsivos com CSS 🇧🇷](https://willianjusten.com.br/criando-textos-responsivos-com-css)
+- [ ] Como usar Grids
+> [Como usar esse sistema para design responsivo 🇧🇷](https://aelaschool.com/designdeinteracao/grids-como-usar-esse-sistema-para-designs-responsivos/)
+> [Um guia completo sobre grids para design responsivo 🇧🇷](https://brasil.uxdesign.cc/um-guia-completo-sobre-grids-para-design-responsivo-6b192fea0124)
 - [ ] Meta tag viewport
+> [Manipulando a meta tag viewport 🇧🇷](https://tableless.com.br/manipulando-metatag-viewport/)
 - [ ] Relação entre pixels e resolução das telas
+> [Padrões de resolução de telas 🇧🇷](https://blog.elgscreen.com/padroes-de-resolucao-de-telas/)
+> [Pixel: o que você precisa saber sobre ele 🇧🇷](https://www.tecmundo.com.br/pixel/7529-pixel-o-que-voce-precisa-saber-sobre-ele-.htm)
 
 ---
 
