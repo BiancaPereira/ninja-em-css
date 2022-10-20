@@ -25,7 +25,7 @@
 ### Pré requisitos 
 
 - [ ] WWW - World Wide Web 
-> [O qe é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
+> [O que é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
 
 
 - [ ] [Browsers 🇧🇷](https://www.techtudo.com.br/listas/2021/03/o-que-e-browser-veja-perguntas-e-respostas-sobre-navegador-de-internet.ghtml)
@@ -109,7 +109,7 @@
 
 ### 3. Posicionamento e layout
 
-- [ ] `display`
+- [ ] [Display 🇺🇸](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [Grid](https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web)🇧🇷
 - [ ] `visibility`
@@ -127,7 +127,7 @@
 
 ### 4. Pseudo-classes e pseudo-seletores
 
-- [ ] Pseudo-classes
+- [ ] [Pseudo-classes 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
 - [ ] Pseudo-seletores
 
 ---
