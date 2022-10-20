@@ -204,10 +204,7 @@
 > Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/))
 
 - [ ] Fontes de ícones
-- **Alguns exemplos bons:**
-- [Phospor icons](https://phosphoricons.com/) (Muito bom pro react) 
-- [Flaticon](https://www.flaticon.com/uicons/interface-icons)
-- [FontAwesome](https://fontawesome.com/)
+> [Phospor icons 🇺🇸](https://phosphoricons.com/) (Muito bom pro react), [Flaticon  🇺🇸](https://www.flaticon.com/uicons/interface-icons), [FontAwesome  🇺🇸](https://fontawesome.com/)
 - [ ] Vender-prefix
 - [ ] CSS no Javascript
 > [Styled Components 🇺🇸](https://styled-components.com/)
