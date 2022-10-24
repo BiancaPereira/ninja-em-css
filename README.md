@@ -207,6 +207,7 @@
 > Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/), [Materiaul UI us](https://mui.com/), [Materialize CSS us](https://materializecss.com/))
 
 - [ ] Fontes de ícones
+> [Phospor icons 🇺🇸](https://phosphoricons.com/) (Muito bom pro react), [Flaticon  🇺🇸](https://www.flaticon.com/uicons/interface-icons), [FontAwesome  🇺🇸](https://fontawesome.com/)
 - [ ] Vender-prefix
 - [ ] CSS no Javascript
 > [Styled Components 🇺🇸](https://styled-components.com/)
