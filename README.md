@@ -25,7 +25,7 @@
 ### Pré requisitos 
 
 - [ ] WWW - World Wide Web 
-> [O que é a internet?](https://canaltech.com.br/produtos/o-que-significa-www/)
+> [O que é a internet? 🇧🇷](https://canaltech.com.br/produtos/o-que-significa-www/)
 
 
 - [ ] [Browsers 🇧🇷](https://www.techtudo.com.br/listas/2021/03/o-que-e-browser-veja-perguntas-e-respostas-sobre-navegador-de-internet.ghtml)
@@ -69,17 +69,17 @@
 > O que são Web Safe Fonts?
 
 - [ ] Unidades de texto e tamanho
-> [Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm`](https://www.alura.com.br/artigos/guia-de-unidades-no-css)<br>
-> [Qual unidade funciona melhor para cada situação](https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
+> [Unidades como `px`, `rem`, `%`, `vw`, `pt`, `cm` 🇧🇷](https://www.alura.com.br/artigos/guia-de-unidades-no-css)<br>
+> [Qual unidade funciona melhor para cada situação 🇧🇷](https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/)
 
 - [ ] Cores
-> [Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA](https://www.devmedia.com.br/css-colors/36827)
+> [Cores em hexadecimal, cores nomeadas, cores em RGB e RGBA, cores em HSL e HSLA 🇧🇷](https://www.devmedia.com.br/css-colors/36827)
 
 - [ ] Comentários
-> [Forma correta de escrever comentários no CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Comments)
+> [Forma correta de escrever comentários no CSS 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Comments)
 
 - [ ] `!important`
-> [Aprender o que faz e porque devemos evitar usar](https://pt.stackoverflow.com/questions/25311/para-que-serve-a-declara%C3%A7%C3%A3o-important)
+> [Aprender o que faz e porque devemos evitar usar 🇧🇷](https://pt.stackoverflow.com/questions/25311/para-que-serve-a-declara%C3%A7%C3%A3o-important)
 
 - [ ] `@import`
 > [Qual é a diferença do @import do CSS e do link do HTML? 🇧🇷](https://pt.stackoverflow.com/questions/72655/qual-e-a-diferen%C3%A7a-do-import-do-css-e-do-link-do-html)
@@ -89,13 +89,13 @@
 ### 2. CSS Box Model
 
 - [ ] Box-model
-> [O que é CSS box-model?](https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing)
+> [O que é CSS box-model? 🇧🇷](https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing)
 
-- [ ] `margin`(https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin)
-- [ ] `padding`(https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding)
+- [ ] [margin 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin)
+- [ ] [padding 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding)
 - [ ] `width` e `height`
 - [ ] Elementos `block` e `inline`
-- [ ] [box-sizing](http://sergiolopes.org/css-box-sizing-border-box/)
+- [ ] [box-sizing  🇧🇷](http://sergiolopes.org/css-box-sizing-border-box/)
 - [ ] `background` e `gradient`
 - [ ] `box-shadow`
 - [ ] `outline`
@@ -110,8 +110,8 @@
 ### 3. Posicionamento e layout
 
 - [ ] [Display 🇺🇸](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
-- [ ] [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-- [ ] [Grid](https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web)🇧🇷
+- [ ] [Flexbox 🇧🇷](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [ ] [Grid  🇧🇷](https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web)
 - [ ] `visibility`
 > Qual a diferença entre `visibility: 0` e `display: none`
 
@@ -168,16 +168,16 @@
 
 ### 8. SASS
 - [ ] O que é SASS
-> [Documentação](https://sass-lang.com/documentation)<br>
-> [Novo Método de Escrever CSS](https://www.ufsm.br/pet/sistemas-de-informacao/2021/09/22/o-que-e-sass-venha-entender-esse-novo-metodo-de-escrever-css/)<br>
-> [Introdução ao SASS](https://devschannel.com/sass/introducao-ao-sass)<br>
+> [Documentação 🇺🇸](https://sass-lang.com/documentation)<br>
+> [Novo Método de Escrever CSS 🇧🇷](https://www.ufsm.br/pet/sistemas-de-informacao/2021/09/22/o-que-e-sass-venha-entender-esse-novo-metodo-de-escrever-css/)<br>
+> [Introdução ao SASS 🇧🇷](https://devschannel.com/sass/introducao-ao-sass)<br>
 - [ ] Mixins
-> [Mixins usados frequentemente](https://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/amp/)<br>
-> [Exemplos práticos](https://www.w3schools.com/sass/sass_mixin_include.php)<br>
+> [Mixins usados frequentemente 🇧🇷](https://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/amp/)<br>
+> [Exemplos práticos 🇺🇸](https://www.w3schools.com/sass/sass_mixin_include.php)<br>
 - [ ] Funções
-> [Introdução as Funções Nativas do SASS](https://devschannel.com/sass/funcoes-nativas-no-sass)<br>
+> [Introdução as Funções Nativas do SASS 🇧🇷](https://devschannel.com/sass/funcoes-nativas-no-sass)<br>
 - [ ] CSS aninhado
-> [Aninhamento no SASS](https://devschannel.com/sass/regras-aninhadas-no-sass)<br>
+> [Aninhamento no SASS 🇧🇷](https://devschannel.com/sass/regras-aninhadas-no-sass)<br>
 
 ---
 
@@ -193,7 +193,7 @@
 > [Organizando Seu Codigo Css Parte 02 🇧🇷](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-02/)
 
 - [ ] ATOMIC DESIGNER
-> [[Front-End] Arquitetura CSS - Criando Design Atômico](https://www.youtube.com/watch?v=alaUQiSAMeE)
+> [[Front-End] Arquitetura CSS - Criando Design Atômico 🇧🇷](https://www.youtube.com/watch?v=alaUQiSAMeE)
 
 ---
 
@@ -216,14 +216,14 @@
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
 
 - [ ] Jogos para praticar CSS
-> Pratique seus conhecimentos de Flexbox no [Flexbox Defense](http://www.flexboxdefense.com/)<br>
-> Coloque em prática seus conhecimentos de Flexbox no [Flexbox Froggy](https://flexboxfroggy.com)<br>
-> Pratique Grid Layout no [CSS Grid Garden](https://cssgridgarden.com/)<br>
-> Neste game você poderá treinar os Seletores CSS no [CSS Diner](http://flukeout.github.io/)<br>
-> Você já é mais avançado? Então treine a propriedade 3D Transforms no [Unfold](https://rupl.github.io/unfold)<br>
-> Pratique em como manipular animações no [Carnival](https://codepen.io/una/pen/NxZaNr) <br>
-> Use suas habilidades de CSS para replicar alvos com o código menor possível no [CSS Battle](https://cssbattle.dev/) <br>
-> Pratique seus conhecimentos de Flexbox no [Flexbox Zombies](https://mastery.games/flexboxzombies/) <br>
+> Pratique seus conhecimentos de Flexbox no [Flexbox Defense 🇺🇸](http://www.flexboxdefense.com/)<br>
+> Coloque em prática seus conhecimentos de Flexbox no [Flexbox Froggy 🇺🇸](https://flexboxfroggy.com)<br>
+> Pratique Grid Layout no [CSS Grid Garden 🇺🇸](https://cssgridgarden.com/)<br>
+> Neste game você poderá treinar os Seletores CSS no [CSS Diner 🇺🇸](http://flukeout.github.io/)<br>
+> Você já é mais avançado? Então treine a propriedade 3D Transforms no [Unfold 🇺🇸](https://rupl.github.io/unfold)<br>
+> Pratique em como manipular animações no [Carnival 🇺🇸](https://codepen.io/una/pen/NxZaNr) <br>
+> Use suas habilidades de CSS para replicar alvos com o código menor possível no [CSS Battle 🇺🇸](https://cssbattle.dev/) <br>
+> Pratique seus conhecimentos de Flexbox no [Flexbox Zombies 🇺🇸](https://mastery.games/flexboxzombies/) <br>
 
 ---
 
