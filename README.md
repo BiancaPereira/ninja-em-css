@@ -134,7 +134,7 @@
 
 ### 5. Animações e transições
 
-- [ ] Animações
+- [ ] [Animações](https://www.youtube.com/watch?v=eTELLTacg-8)
 - [ ] Transições
 - [ ] `transform`
 - [ ] `@keyframe`
