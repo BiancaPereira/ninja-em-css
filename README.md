@@ -192,8 +192,8 @@
 - [ ] SMACSS
 > [Organizando Seu Codigo Css Parte 02 🇧🇷](https://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-02/)
 
-- [ ] ATOMIC DESIGNER
-> [[Front-End] Arquitetura CSS - Criando Design Atômico 🇧🇷](https://www.youtube.com/watch?v=alaUQiSAMeE)
+- [ ] Atomic Design
+> [Criando Design Atômico 🇧🇷](https://www.youtube.com/watch?v=alaUQiSAMeE)
 
 ---
 
