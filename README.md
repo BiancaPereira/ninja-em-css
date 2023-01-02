@@ -22,9 +22,17 @@
 
 ---
 
+### Guia de uso (sugestão)
+
+1. Dê um fork nessa branch.
+2. Coloque em negrito todos os itens que você vai estudar (não é necessário estudar tudo de uma vez, marque só os tópicos mais relevantes para você agora).
+3. Quando concluir um item, marque como completo adicionando um **x** a caixinha (`[x]`).
+
+---
+
 ### Pré requisitos 
 
-- [ ] WWW - World Wide Web 
+- [x] WWW - World Wide Web 
 > [O que é a internet? 🇧🇷](https://canaltech.com.br/produtos/o-que-significa-www/)
 
 
