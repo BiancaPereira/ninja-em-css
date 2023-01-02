@@ -204,13 +204,13 @@
 
 - [ ] Frameworks
 > Pontos positivos e negativos de usar frameworks<br>
-> Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/), [Materiaul UI us](https://mui.com/), [Materialize CSS us](https://materializecss.com/))
+> Conheça alguns frameworks CSS ([Bootstrap 🇺🇸](https://getbootstrap.com/), [Bulma 🇺🇸](https://bulma.io/), [Tailwind 🇺🇸](https://tailwindcss.com/), [Materiaul UI 🇺🇸](https://mui.com/), [Materialize CSS 🇺🇸](https://materializecss.com/))
 
 - [ ] Fontes de ícones
-> [Phospor icons 🇺🇸](https://phosphoricons.com/) (Muito bom pro react), [Flaticon  🇺🇸](https://www.flaticon.com/uicons/interface-icons), [FontAwesome  🇺🇸](https://fontawesome.com/)
+> [Phospor icons 🇺🇸](https://phosphoricons.com/) (Muito bom pro React), [Flaticon 🇺🇸](https://www.flaticon.com/uicons/interface-icons), [FontAwesome 🇺🇸](https://fontawesome.com/)
 - [ ] Vender-prefix
 - [ ] CSS no Javascript
-> [Styled Components 🇺🇸](https://styled-components.com/)
+> [Styled Components 🇺🇸](https://styled-components.com/), [Emotion 🇺🇸](https://emotion.sh/docs/introduction)
 
 - [ ] Can I Use
 > Analise a compatibilidade das propriedades no [Can I Use 🇺🇸](https://caniuse.com/css-grid)
